@@ -21,7 +21,7 @@ As a user, I want the ability to...
   
 
 ## Wireframes / Screenshots
-![screenshot](https://i.imgur.com/dROkmwt.jpg)
+![screenshot](https://i.imgur.com/dROkmwt.png)
 
 
 
