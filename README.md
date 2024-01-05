@@ -21,7 +21,7 @@ As a user, I want the ability to...
   
 
 ## Wireframes / Screenshots
-![screenshot](https://imgur.com/a/QL9M4qH)
+![screenshot](https://imgur.com/a/QL9M4qH.png)
 ## Psuedocode
 
 ```
