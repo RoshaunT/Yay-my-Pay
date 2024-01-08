@@ -2,7 +2,7 @@
 const express = require('express')
 require('dotenv').config()
 const path = require('path')
-
+const middleware = require('./utils/middleware')
 
 
 // Routers
@@ -13,9 +13,14 @@ const path = require('path')
 const app = express()
 
 
+// veiw engine - ejs
+app.set('veiws', path.join(__dirname, 'veiws'))
+app.set('veiw engine', 'ejs')
+
+
 
 // Middleware 
-
+middleware(app)
 
 
 
